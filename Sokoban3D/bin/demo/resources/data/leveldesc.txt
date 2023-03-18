@@ -1,0 +1,9 @@
+1=Zone
+2=zielZone
+3=Zone + Tür (optional)
+4=zone + Tür + Blocker (optional)
+5=zone + Blocker
+6=zielZone + Blocker
+9=Playerstart
+
+Spielfeld~max 18x18
